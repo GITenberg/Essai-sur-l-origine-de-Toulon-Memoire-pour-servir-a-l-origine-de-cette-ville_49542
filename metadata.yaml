@@ -1,10 +1,16 @@
 _repo: Essai-sur-l-origine-de-Toulon-Memoire-pour-servir-a-l-origine-de-cette-ville_49542
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49542-h/images/cover.jpg
 creator:
   author:
     agent_name: Vidal, Henri
     gutenberg_agent_id: '45388'
     url: http://www.gutenberg.org/2009/agents/45388
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49542#Essai-sur-l-origine-de-Toulon-Memoire-pour-servir-a-l-origine-de-cette-ville
 gutenberg_bookshelf:
 - FR Villes
 - FR Histoire
