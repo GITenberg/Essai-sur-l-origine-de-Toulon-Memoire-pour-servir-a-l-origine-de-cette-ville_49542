@@ -22,6 +22,8 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Essai sur l''origine de Toulon
 
   Mémoire pour servir à l''origine de cette ville'
